@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.33214.272
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Cinema", "01. Cinema\01. Cinema.csproj", "{79A5909E-FFE4-40E8-A340-3C5C36E967C9}"
 EndProject
@@ -20,8 +20,6 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. On Time for the Exam", "08. On Time for the Exam\08. On Time for the Exam.csproj", "{9AB0633B-F391-43DE-9F0D-00EB383532D2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Ski Trip", "09. Ski Trip\09. Ski Trip.csproj", "{49CA3B52-7B3B-4109-B15E-EB20BDB10F5F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fgfgd", "fgfgd\fgfgd.csproj", "{A8F774D5-4D4F-4952-9619-E067DA9A1498}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,10 +63,6 @@ Global
 		{49CA3B52-7B3B-4109-B15E-EB20BDB10F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49CA3B52-7B3B-4109-B15E-EB20BDB10F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49CA3B52-7B3B-4109-B15E-EB20BDB10F5F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A8F774D5-4D4F-4952-9619-E067DA9A1498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A8F774D5-4D4F-4952-9619-E067DA9A1498}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A8F774D5-4D4F-4952-9619-E067DA9A1498}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A8F774D5-4D4F-4952-9619-E067DA9A1498}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
